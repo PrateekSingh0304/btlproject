@@ -1,0 +1,32 @@
+
+<div class="container">
+  <h2>Center List</h2>
+<div>
+  <input type="text" class="form-control" id="usr" style="width: 200px;" [(ngModel)] = "name">
+<button type="button" class="btn btn-light" (click) = 'filterData()'>Search</button>
+</div>
+<span class="label label-info">*Currently we can search using PersonName only</span>
+
+  <table class="table table-bordered">
+    <thead>
+      <tr>
+        <th>CenterId</th>
+        <th>CenterName</th>
+        <th>CenterCode</th>
+        <th>Address</th>
+        <th>PersonID</th>
+        <th>PersonName</th>
+      </tr>
+    </thead>
+    <tbody *ngFor="let center of dataToShow">
+      <tr >
+        <td>{{center.CenterId}}</td>
+        <td>{{center.CenterName}}</td>
+        <td>{{center.CenterCode}}</td>
+        <td>{{center.Address}}</td>
+        <td>{{center.PersonID}}</td>
+        <td>{{center.PersonName}}</td>
+      </tr>
+    </tbody>
+  </table>
+</div>

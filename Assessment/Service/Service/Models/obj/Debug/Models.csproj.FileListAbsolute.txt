@@ -1,0 +1,5 @@
+C:\Users\wd5i\Desktop\Personal\Work\Assessment\Service\Service\Models\bin\Debug\Models.dll
+C:\Users\wd5i\Desktop\Personal\Work\Assessment\Service\Service\Models\bin\Debug\Models.pdb
+C:\Users\wd5i\Desktop\Personal\Work\Assessment\Service\Service\Models\obj\Debug\Models.csprojResolveAssemblyReference.cache
+C:\Users\wd5i\Desktop\Personal\Work\Assessment\Service\Service\Models\obj\Debug\Models.dll
+C:\Users\wd5i\Desktop\Personal\Work\Assessment\Service\Service\Models\obj\Debug\Models.pdb

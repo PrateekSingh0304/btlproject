@@ -1,0 +1,7 @@
+C:\Users\wd5i\Desktop\Personal\Work\Assessment\Service\Service\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\wd5i\Desktop\Personal\Work\Assessment\Service\Service\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\wd5i\Desktop\Personal\Work\Assessment\Service\Service\DataAccess\bin\Debug\Models.dll
+C:\Users\wd5i\Desktop\Personal\Work\Assessment\Service\Service\DataAccess\bin\Debug\Models.pdb
+C:\Users\wd5i\Desktop\Personal\Work\Assessment\Service\Service\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\wd5i\Desktop\Personal\Work\Assessment\Service\Service\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\wd5i\Desktop\Personal\Work\Assessment\Service\Service\DataAccess\obj\Debug\DataAccess.pdb
